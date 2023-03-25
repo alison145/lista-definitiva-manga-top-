@@ -1,1 +1,21 @@
-Nnbb
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmsgVaM.png" group-title="Sem Categoria", (ONLINE) CANAISN
+https://raw.githubusercontent.com/alison145/lista-definitiva-manga-top-/main/Canais
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmsgVaM.png" group-title="Sem Categoria", (OFFLINE) FILMES E SeriEs
+https://raw.githubusercontent.com/alison145/lista-definitiva-manga-top-/main/Filmes%20e%20%20s%C3%A9rie
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmsgVaM.png" group-title="Sem Categoria", (OFFLINE) Canais Manga
+https://raw.githubusercontent.com/alison145/lista-definitiva-manga-top-/main/Canais%20manga
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/wMdzXwV6FwahGTcz5" group-title="Sem Categoria",Adultos 
+https://raw.githubusercontent.com/alison145/porno/main/La
+
+
+
+
+
+
+
+
