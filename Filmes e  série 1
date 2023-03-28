@@ -75,8 +75,10 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/37792.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Desenhos 24h", (OFFLINE) Cavalo de Fogo
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/37793.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/cd4f833689bdc0ce7d8b0a04d1da812c.jpg" group-title="Canais: Desenhos 24h", (OFFLINE) Caverna do Dragão
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/230277.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/cd4f833689bdc0ce7d8b0a04d1da812c.jpg" group-title="Canais: Desenhos 24h", (ONLINE) Caverna do Dragão
+
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/cd4f833689bdc0ce7d8b0a04d1da812c.jpg" group-title="Canais: Desenhos 24h", (ONLINE) Caverna do Dragão
+http://lxls.mx:80/giselebello/80754546/333007
 
 #EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Series 24h", (OFFLINE) Chapolin Colorado
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/22581.m3u8
@@ -158,9 +160,6 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/79146.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Series 24h", (OFFLINE) Mazzaropi
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/36705.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/5102ecd3d47f6561de70979017b87a80.png" group-title="XXX: Canais Adultos", (OFFLINE) Mia Khalifa 24 Horas
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/37059.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Series 24h", (OFFLINE) Miraculous: As Aventuras de Ladybug
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/20434.m3u8
@@ -349,6 +348,9 @@ http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x9.mp4
 http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/NBrEcxQrJzRb55rJ9" group-title="Canais: Series 24h",Tarzan
+http://1548.srvsh.xyz:80/jackson4710638/362695047/105567
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/NBrEcxQrJzRb55rJ9" group-title="Canais: Series 24h",Tarzan
 http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
@@ -470,7 +472,26 @@ http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/82510
 #EXTINF:-1 tvg-logo="" group-title="",PIRATAS DO CARIBE  O BAU DA MORTE 
 https://www.googleapis.com/drive/v3/files/19xRuHML80Zdbxdwi1q6P3E5ktEimMGgk?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="" group-title="",DESENHO DA DISNEY 
+#EXTINF:-1 tvg-logo="" group-title="",D
 http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/82510
-#EXTINF:-1 tvg-logo="" group-title="",rei Leão 
-https://play.sfstream.net/chunk/4DCF0D04D6B3B253AF7C4A4ACECDB614D135B200D4C733D66B80BDBC2E4586334AF9D66DEBD5F91DF6C9868D85FDCBC89E0B56F1AD4D1A71EC5F495EBD8A46C8/DBC29D01055D3CD882E2C950464D1372CE024B50210CE93484493A6B89E5834E2DC63F9F962B37A5E87E280AB6CD5221666E9A99771C2676D3CA14B7F6F8ED20F112D11E5F9298D8B44F4C4053A703FA0A8D3CDCFD2F86C1261D334803D52EF2FB2292F750F4C3D7AE02686BDE1A84E8.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",NOVELAS MEXICANAS
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://proyectorfantasma-com-ar.cdn.ampproject.org/ii/AW/s/proyectorfantasma.com.ar/wp-content/uploads/2017/01/moana-main-768x346.jpeg" group-title="Animes",Moama
+https://www.googleapis.com/drive/v3/files/1kKeHGZ2lu6QMjE0DrKHJBnCCRhAu_u53?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+#EXTINF:-1 tvg-logo="
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxS5rW1T6_Ybgn5CqipsNJwLvKrmP21_MT_pbX12uHMGNjiFMPdqURBM5&s=10" group-title="Animes: Canais desenhos", (ONLINE) Dragon Ball Z A Saga De Freeza
+https://www.googleapis.com/drive/v3/files/101TogyC9vIzKfry52sDFtVBf53SrHkJg?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/977025128/LOTR_400x400.png" group-title="Canais: Filmes ", (ONLINE) Senhor Dos Aneis As Duas Torres
+https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+#EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Series 24h", (ONLINE)Street Fhigt 2 Dublado 
+https://www.googleapis.com/drive/v3/files/1-43Js92V8mY7sjLIspj9iR8Kt_BaAus7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+EXTINF:-1 tvg-logo="https://s2.glbimg.com/PvzbGj-UL1QJy5g0R1pMwjyU8p8=/top/e.glbimg.com/og/ed/f/original/2019/08/05/mal2.png" group-title="Canais: Filmes 24h", (ONLINE) malevola 2
+https://s2.glbimg.com/PvzbGj-UL1QJy5g0R1pMwjyU8p8=/top/e.glbimg.com/og/ed/f/original/2019/08/05/mal2.png
+MALÉVOLA 
+https://www.googleapis.com/drive/v3/files/14Qn-tIaZZ5fsao2KdgFWM32H9iotDUyb?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
