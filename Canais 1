@@ -3,13 +3,13 @@
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/ae/play1.m3u8
 
 #EXTINF:-1 tvg-logo="http://dnslist.ca:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Canais: Filmes e Series", (OFFLINE) A&E +SD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/1.m3u8
+http://cdn.connectbr.com.br/AE/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Canais: Filmes e Series",A&E FHD
 http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Canais: Filmes e Series", A&E FHD
-http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+http://45.58.126.146:14293
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Canais: Filmes e Series",A&E 
 http://45.58.126.146:14293/A&E
@@ -52,8 +52,6 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/79901.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Desenhos 24h", (OFFLINE) AnimeTV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1625533452.m3u8
-
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/87015.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="Canais: Filmes e Series", (OFFLINE) Arte 1 +HD
 http://lmtv.me:80//live/1667663319jen/162145/89810.ts
@@ -106,8 +104,8 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231631.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/ce13bcf847050c2a7e45f6ceb1a50724.png" group-title="PPV: Estaduais 2023", (OFFLINE) Baianão TVE HD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/221324.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais: 4K", (OFFLINE) Band 4K
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/79274.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais: 4K", (OFFLINE) Band
+http://168.205.87.198:8555/live/1052/123456/19.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="Canais Abertos", (OFFLINE) Band Bahia HD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/39483.m3u8
@@ -266,7 +264,7 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231306.m3u8
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/40681.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/d9d61380a62b8e2b03aec305cc5c81a3.png" group-title="Canais: Infantil", (OFFLINE) Cartoonito +HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/53.m3u8
+http://esrv.cc:80/eduardo002/72836392/41535.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/d9d61380a62b8e2b03aec305cc5c81a3.png" group-title="Canais: Infantil", (OFFLINE) Cartoonito FHD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/43618.m3u8
@@ -365,7 +363,7 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/38458.m3u8
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/79907.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Canais: Filmes e Series", (OFFLINE) Cinemax +HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/57.m3u8
+http://loadbl2.online:80/Annabele231059/Angelo095187/17623
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Canais: Filmes e Series", (OFFLINE) Cinemax FHD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/43624.m3u8
@@ -589,14 +587,15 @@ http://45.58.126.146:14252/http://45.58.126.146:14252/
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="Canais: Documentarios", (OFFLINE) Discovery Channel +HD
 http://lxls.mx/live/32xde7ns/08kmr0l0/4461.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/c0d248ccc2098b4738cbc8b0f019f6d7.png" group-title="Canais: 4K", (OFFLINE) Discovery Channel HD
+#EXTINF:-1 tvg-logo="
+https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" group-title="Canais: 4K", (OFFLINE) Discovery Channel HD
 http://connecttvapp.xyz:80/mgf4c18/mgf239161/18.ts
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="Canais: Documentarios", (OFFLINE) Discovery Channel FHD
-http://DNSBR.XYZ
+http://loadbl2.online:80/Annabele231059/Angelo095187/17641
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="Canais: Documentarios", (OFFLINE) Discovery Channel FHD [H265]
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231312.m3u8
+http://45.58.126.146:14252
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="Canais: Documentarios", (OFFLINE) Discovery Channel HD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/40683.m3u8
@@ -1036,7 +1035,7 @@ http://hidra.live:80/msqbuynu/C55qy6Ihb6/302670
 http://loadbl2.online:80/Annabele231059/Angelo095187/18065
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/8558d4767d4b6c635a0ba11e472dff7b.png" group-title="Canais: HBO", (OFFLINE) HBO Signature HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/38483.m3u8
+http://15.235.10.31:14400
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/8558d4767d4b6c635a0ba11e472dff7b.png" group-title="Canais: HBO", (OFFLINE) HBO Signature SD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231418.m3u8
@@ -1051,7 +1050,7 @@ http://ddsw.xyz:80/3907687949/2872057250/967335
 http://loadbl2.online:80/Annabele231059/Angelo095187/18068
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/227c5a7767e2742104de1c193474174b.png" group-title="Canais: HBO", (OFFLINE) HBO Xtreme HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/38484.m3u8
+http://15.235.10.31:14404
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/595437b02e6d79a6519ad4f3c880d604.png" group-title="Canais: HBO", (OFFLINE) HBO Xtreme SD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231420.m3u8
@@ -1074,11 +1073,11 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231423.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="Canais: Documentarios", (OFFLINE) HGTV SD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231424.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/9790a2c92cecaf19f50bfbb2d947847c.png" group-title="Canais: Documentarios", (OFFLINE) History Channel +HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/103.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Canais: Documentarios", (OFFLINE) History 2
+http://loadbl2.online:80/Annabele231059/Angelo095187/18247
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/9790a2c92cecaf19f50bfbb2d947847c.png" group-title="Canais: Documentarios", (OFFLINE) History Channel FHD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/43708.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/9790a2c92cecaf19f50bfbb2d947847c.png" group-title="Canais: Documentarios", (OFFLINE) History Channel Hd
+http://45.58.126.146:14281
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/9790a2c92cecaf19f50bfbb2d947847c.png" group-title="Canais: Documentarios", (OFFLINE) History Channel FHD [H265]
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231432.m3u8
