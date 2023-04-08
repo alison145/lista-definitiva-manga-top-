@@ -263,10 +263,6 @@ http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/70
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16750
 #EXTINF:-1 tvg-logo="" group-title="FILMES", SPACE 
 http://51.159.54.153:14408/
-#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
-
-#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
-
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
 http://cdn.tvwebplay.top:80/maiky/maiky/244
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
@@ -275,16 +271,6 @@ https://cdn.connectbr.com.br/lifetime/index.m3u8
 http://187.85.237.32:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
 http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AXN HD
-
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-
 #EXTINF:-1 tvg-logo="" group-title="",FX
 http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/3
 #EXTINF:-1 tvg-logo="" group-title="",FX
@@ -430,14 +416,6 @@ http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBl
 http://187.85.237.31:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
 http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="" group-title="",AMC
-
-#EXTINF:-1 tvg-logo="" group-title="",CANAL BRASIL 
-
-#EXTINF:-1 tvg-logo="" group-title="",AMC
-
-#EXTINF:-1 tvg-logo="" group-title="",AMC 
-
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL
 http://190.15.32.30:80/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
@@ -711,3 +689,5 @@ http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/82561
 http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/82510
 #EXTINF:-1 tvg-logo="" group-title="",PIRATAS DO CARIBE  O BAU DA MORTE 
 https://www.googleapis.com/drive/v3/files/19xRuHML80Zdbxdwi1q6P3E5ktEimMGgk?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF: -1 tvg-logo='' group-title='OUTROS' , 24HS TICO E TECO http://milka99.xyz:80/gWTS5z5Pgq/Z0ogH89m5o/70959 
+#EXTINF: -1 tvg-logo='' group-title='OUTROS' , 24HS DRAKE E JOSH http://milka99.xyz:80/494310795647/913339146153/87732
