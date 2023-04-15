@@ -1,3 +1,5 @@
+Lista canais 
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Canais: Filmes e Series",A&E HD
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/ae/play1.m3u8
@@ -1896,4 +1898,5 @@ https://spt-novelas-1-us.vizio.wurl.tv/4300.m3u8
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw1juOX5316I6qUi7UE304ye-5YOH8eN7EQ&usqp=CAU" group-title="Canais: Infantil", super Mario Bros o filme 
-https://123mopie.nwsautodaily.com/themes/v1//assets/movie.mp4
+https://download2391.mediafire.com/yr0022qkd8bgEt2ebXABXo_3NDat__jOKHxZL-J7D4bj6UBwYsUoJWy9R_MjjjlWMkI4HDErgbdGx7ZJ63x6ysOPX08_/ok9jce31pd7k5gt/Super.Mario.Bros.2023-HD.mp4
+
