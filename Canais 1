@@ -75,7 +75,7 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231692.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teambr.live:80/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="Canais: Series 24h", (OFFLINE) Aventura Selvagem
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/43378.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Canais: Filmes e Series", (OFFLINE) AXN +HD
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Canais: Filmes e Series", (OFFLINE) AXN 
 http://187.85.237.8:8825/ipvt_005
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Canais: Filmes e Series", (OFFLINE) AXN FHD
@@ -87,8 +87,8 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18724
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Canais: Filmes e Series", (OFFLINE) AXN HD
 http://lmtv.me:80//live/1667663319jen/162145/89813.ts
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Canais: Filmes e Series", (OFFLINE) AXN SD
-http://7go.xyz:8080/556799391192/xxzsaw25106/18724
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Canais: Filmes e Series", (ONLINE) AXN
+http://fadder.eletrinho.shop:2095/live/axn/chunks.m3u8?token=1681926385_6a878dbbed97ede65d94d19d8cd50064488a561a
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/45914664eafc286fb139a5036f142106.png" group-title="Canais: Infantil", (OFFLINE) Baby TV FHD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231235.m3u8
@@ -707,8 +707,8 @@ http://sukitam.bccdn.xyz:80/hspu6ygc/qmak91ta/802
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="Canais: Documentarios", (OFFLINE) Discovery World SD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231343.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/3c5552adac16b764d040852eed273b86.png" group-title="Canais: Infantil", (OFFLINE) Disney Channel  +HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/71.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/3c5552adac16b764d040852eed273b86.png" group-title="Canais: Infantil", (OFFLINE) Disney Channel 
+http://fadder.eletrinho.shop:2095/live/disneychannel/chunks.m3u8?token=1681926385_277ee3d2957c9516a7ad5b596cd3c08821e7ab6c
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/3c5552adac16b764d040852eed273b86.png" group-title="Canais: Infantil", (OFFLINE) Disney Channel FHD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/43642.m3u8
@@ -878,8 +878,8 @@ http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/8a827805150876b05ed72692a9fdd244.png" group-title="Canais: Infantil", (ONLINE) GlooBo
 http://fadder.eletrinho.shop:2095/live/gloob/chunks.m3u8?token=1681912393_2651849027949519d93fa16c4aacbf4f95158ba0
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/8a827805150876b05ed72692a9fdd244.png" group-title="Canais: Infantil", (OFFLINE) Gloobinho FHD [H265]
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231399.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/8a827805150876b05ed72692a9fdd244.png" group-title="Canais: Infantil", (ONLINE) Gloobinho Sd
+http://15.235.10.31:14360
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/8a827805150876b05ed72692a9fdd244.png" group-title="Canais: Infantil", (OFFLINE) Gloobinho HD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/231400.m3u8
@@ -1148,8 +1148,8 @@ http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/106.m3u8
 #EXTINF:-1 tvg-logo="http://dnslist.ca:80/images/b5eb9035ec9392e1ba177f610da5a5ff.png" group-title="Canais: Variedades", (OFFLINE) Mais Globosat +HD
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/107.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/5ee9b7a6d44d671f468b2e3b8b92e6b0.png" group-title="Canais: Filmes e Series", (OFFLINE) Megapix +HD
-http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/108.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/5ee9b7a6d44d671f468b2e3b8b92e6b0.png" group-title="Canais: Filmes e Series", (ONLINE) Megapix
+http://fadder.eletrinho.shop:2095/live/megapix/chunks.m3u8?token=1681926385_8a8fa82a238ec82bacdd0941566736c63ef49772
 
 #EXTINF:-1 tvg-logo="http://cdn.xcore.ca:80/images/955807e4c9f1b97418b4cb0973838463.png" group-title="Canais: 4K", (OFFLINE) Megapix 4K
 http://cdn.xcore.ca:80/live/yrmnbnoz/llt1hfm4/76696.m3u8
