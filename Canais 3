@@ -118,7 +118,22 @@ http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/223?Play&token=GRJe
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31605.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31604.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
 http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/155?Play&token=GRJeVUEJEF9BVwNTCA1WUFNRAldUDgMBDVMAAA1RB1IEVVUDUwRRVwcWHUFLTBFQAw87DwIaXwAMUEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1TAAhRURsXQwxXQAoUBwpWC11BGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBUVQwFQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUAAPUwxAHw==
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",Food
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31606.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",gnt
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31608.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",gnt hd
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31609.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC
 http://45.58.126.146:14270
@@ -235,7 +250,13 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/22292
 http://199.127.60.83:16004/amc
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16704
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31599.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31600.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",CURTA
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31602.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
