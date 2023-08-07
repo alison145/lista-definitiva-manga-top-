@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/19/01/17/16/28/3541107.jpg" group-title="Sem Categoria", DUMBO
+http://169.197.124.122:23818/vod/F8B393B7FE8C4C4192E558650D01F625_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3DUA9RcKM53YVN_F1HsQVVkE57p%26app_version%3D20001%26client_ip%3D45.179.29.160%26dev_id%3D3820b085ac171403c76d52f537c7bac7%26auth_id%3D209271702_com.global.ycweb_cloud-c2-redis_0%26user_id%3D209271702%26expired%3D1691462767%26token%3D12a21fd9ad8170e3d7116d024ca8a3d0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3DF8B393B7FE8C4C4192E558650D01F625%26expired%3D1691462767%26token%3D177b35d87ca157e0f18051beefb6e005
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
 http://212.102.60.39:2200/BRX/Viva_HD/tracks-v1a1/mono.m3u8
 
@@ -39,11 +42,11 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD HD
-http://lxls.mx/live/32xde7ns/08kmr0l0/119062.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD HD RJ
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31555.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD HD
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31560.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA TERROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
@@ -66,7 +69,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/183640
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://7go.xyz:8080/556799391192/xxzsaw25106/183639
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENT脕RIO", NETGEO GEOGRAPHIC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", NETGEO GEOGRAPHIC
 http://66.90.68.66:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/117?Play&token=GRJeVUEJEF9BDQRaXAEFUFVVVwdVDwYFDgMDDlMLUwpUAgRXAFZQU1cWHUFLTBFQAw87DwIaXwAIUkkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QCQ1VVBsXQwxXQAoUBQtWAlVBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBUVQ0GQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUgENWwVAHw==
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", NETGEO WILD
