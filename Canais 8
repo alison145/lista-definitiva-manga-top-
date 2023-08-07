@@ -1,7 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
+http://212.102.60.39:2200/BRX/Viva_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
 http://199.127.60.83:16884/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31630.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31638.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA NEW
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -22,6 +31,9 @@ http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w1983631246.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31622.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP
@@ -36,14 +48,17 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA TERROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/99?Play&token=GRJeVUEJEF9BBwFbXF5SV1ADUwUAXFMICVYEBQ0DB1dSAFQCBFZTAVcWHUFLTBFQAw87DwIaXwgASUdCRlYXbAtUFA4QUgNHTxZFClVdQQ9TVFxfUw1QAA5WSRVFWgERWBIHAgNUBkdPFlQbTF0RWwMOOwIDTgxSXEdfWUBfCR9AX1hrVgRfBA1QE1kaCEEZQAsXFkQCC0RVCUkVV1oRQQNEUxYIQwBVUgMTTxpbDEAMFhYfRAJHc2tHSRVQSxFWDENfW1xDCEcXRxNPGlEQahAHFxIUXQRcXBdHDRcDRx9AXVdMbQJdCw1RUhdRVw1GQFhGV1YIVQEJR0kVWFwLWhZfRGtCCFZHWRYCWw0IUxcf
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", TRUTV 
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31627.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", ANIMAL PLANET
 http://199.127.60.83:16192/
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", ANIMAL PLANET
+http://208.115.225.174:14192/
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://hidra.live:80/msqbuynu/C55qy6Ihb6/302706
+http://84.17.44.179:14635/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://7go.xyz:8080/556799391192/xxzsaw25106/183640
@@ -106,7 +121,10 @@ http://66.90.84.58:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/101?Play&token=GRJeV
 http://45.58.126.146:14255/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTRIO", HISTORIA 1
-http://66.90.84.58:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/115?Play&token=GRJeVUEJEF9BUFJWDwgGBFNWUwICC1FXCVwBVlcEXFUEAFJXBwcDUQYWHUFLTBFQAw87DwIaXwAIUEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1TAQ5SUxsXQwxXQAoUBgZSAldBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBUVAEIQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUQwJVQdAHw==
+http://45.58.126.146:14281/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTRIO", HISTORIA 2
+http://45.58.126.146:14284/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTRIO", HISTORIA 2
 http://cdn.connectbr.com.br/h2/index.m3u8
@@ -134,6 +152,18 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31608.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria",gnt hd
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31609.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",LIFETIME HD
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31611.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",GLOBO SAT
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31613.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",MTV
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31616.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",MULTISHOW
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31617.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC
 http://45.58.126.146:14270
@@ -261,8 +291,8 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31602.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", mkk
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12101f0b12f00007844c7c/3063648/playlist.m3u8?return&terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=07b16472-d071-4d2e-ad98-ab98754a4428&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE FILMES
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31623.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY SHART
 https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8
@@ -276,43 +306,6 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1210d14ae1f800
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SUSPENCE
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a0500007362f22/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 1
-http://srv.main13-project.xyz:2095//live/Xplus-1-kbauNfQrld/YsMhBV0JTM/754.ts?token=ShZcWRELFQxDAFFVBFIAClMDAFAKVwcGAVIHVQILUARQUQxaBwBSBFhHThRCQktdVFhoWlwRDwIBBElDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1AABgIbE0RdXEBZFQVRXVUBExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABQMBDxoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dQAAgGCxpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky2
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/755?token=ShZcWRELFQxDXQMCAFUPDAJQVVIIUgJXUFRQUQIHDA4CVlcMVQZRDgJHThRCQktdVFhoWlwRDwIBBUlDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MHAwYbE0RdXEBZFQdXUlUHExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABQUGDBoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0daAQIGG0U=
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 3
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/813?token=ShZcWRELFQxDBAAFU1MJD1QAAFALVVcBAQNVUQdRBQNSUAUMUQcEV1JHThRCQktdVFhoWlwRDw0FA0lDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MFBQQbE0RdXEBZFQdSVFsGExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAQCDxoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAAYPCxpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 4
-http://sub3.appserv21.xyz:2095/Xplux22/Solucao11/1314?token=ShYLURBcRFsTVA4HUFMCBlZaVl0ABlVYXAABDlcEV1dVV1UDWg1TAwlBFUcSQxNTBFRoUFIRCVBWAQIUF0VCUUNrClRBDkRQBlsIUkMbQ0IMVFIbDAIFWVwFAAoHCAgYE0QKVEEORFIDVg9UQxtDUx1NUktYUl8+AVVAUVZVEw5fQQ9cTxYJD24HXAgAWQUUXxsHGxoRWhIVEgxWQFxdGBNWCkQRVRIEE1kbVlUGVxRJG1RWQ11HExwSDBp3YhMYE1EbRAZaFQheDRtfQ0MSFEkbXkppQVYSEUJTWVhVQxYLFlISTxYLAEk8WgoPWQRVEVBYV0URCUNQAAYIFxwTWV5aCkQMRjkRWAcbX0MFWQdXG0o= 
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 5
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/812?token=ShZcWRELFQxDB1IGUg8MAQICBgIIBwZTBAcAVAFSVQVUBgEBWlEOV1hHThRCQktdVFhoWlwRDw0FAklDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MEBgMbE0RdXEBZFQdVXVYUHRRcQEFQRV1ZX2pRUUYMAlIRDllEWFgUQAxZaQUAD1dfUhsCFwUVHxpaRkUWCgsUW18YFVNdQEoDF1IUW0dQDggDGxQXVlhGVkdHTBYKRyNlERgVVExAXQwQXlkPR1gURUUbFBdcRGxKVkZBRlUEDFJBFg0TBBYUQA5WTj4GDVhfU1pMXFpZQBoJFwEWHEcMWF1dQ15Ga0gLBxUMQ1ZWBwEFG0U=
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 6
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/760?token=ShZcWRELFQxDXVoDBFVaCgQFBgEBVw0GBQcGVgJWAwFXBQxcVVECAQRHThRCQktdVFhoWlwRDwICAElDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MDAQEbE0RdXEBZFQVTV1IHExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAgCCxoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAgYFCBpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 7
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/761?token=ShZcWRELFQxDUwQFUwQAWQVQB1EOBg0GB1JRUgcLVlUIBQYAVAYOA1ZHThRCQktdVFhoWlwRDwICAUlDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MCAQwbE0RdXEBZFQRWUVQGExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAcPCBoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAgEFCRpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 8
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/811?token=ShZcWRELFQxDVVQBBgAPDAYMDgRdAANWDFNcUFUGBgcIUgNcBFtSUFBHThRCQktdVFhoWlwRDw0FAUlDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MBAw0bE0RdXEBZFQdXVFcOExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAIOCRoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAAYBDhpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 9
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/763?token=ShZcWRELFQxDXAMBCVcIClADAVVaVgBWVVUAVVILDABXB1FbV1AABQNHThRCQktdVFhoWlwRDwICA0lDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MBCwIbE0RdXEBZFQdWVFUGExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABQMHDhoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAgkECBpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 10
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/764?token=ShZcWRELFQxDXFNQBw4ACAVQAgoMAgZXBgNWWAMHAQ5SDAddAVEEB1lHThRCQktdVFhoWlwRDwICBElDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MACwQbE0RdXEBZFQdYXFQGExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAAFDRoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAAYBCBpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 11
-http://appservv62.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/809?token=ShZcWRELFQxDUVZUBwYOWwQFBgNcUlMDVgkEVgUGAw9QVQAKWwVSVFlHThRCQktdVFhoWlwRDw0ECUlDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MOAQYbE0RdXEBZFQRTVlYEExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAQPDBoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAgkAARpI
-
-#EXTINF:-1 tvg-logo="" group-title="",cine Sky 12
-http://sor.main12-project.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/810?token=ShZcWRELFQxDB1cPBwILAVcEAwALBVFTBQVXBAZWDAdUUFAABgEHBFBHThRCQktdVFhoWlwRDw0FAElDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQ0FU1MOCwUbE0RdXEBZFQVQXVMOExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAkEChoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dXAwEURA==
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICK JR
 http://45.58.126.146:14215
 
@@ -321,6 +314,9 @@ http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICKELODEON
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY CHANNEL 
+http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31639.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", KIDS
 http://myott.top/stream/DEKA6YA5JRN/323.m3u8
@@ -346,7 +342,7 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d40300
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT FHD
 http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PEQUENA 馃鈥嶁檪锔�
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PEQUENA SEREIA
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MARSHALL E URSO
@@ -371,109 +367,10 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf00
 http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFVAgZUTUAWElRFaFpTEg4aUVcAAA8DWhYfEkwNCFFBDFICAlNTW1tUAAQbEUdZUBpZRgMLDwdbFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgUCUAIRHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYPRAcSFEYMRzxEBkdAFwQDDgRDFQ0RBxIYGg4FSmdUWwxaVlNMDQpaEBRZFgZHTUAODl9eQ1xFb0RRB0YIVkJYDkk=
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
-http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", apocalypto
 http://fhd04-2.appmaxplus.xyz/token/FHD4/tt0472043.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x1.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x2.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x3.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x4.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x5.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x6.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x7.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIKINGS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x8.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x1.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x3.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x4.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x6.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x7.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x8.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x9.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x10.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x11.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x12.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x13.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x14.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x15.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x16.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x17.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x18.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x19.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x20.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MILAGRES DE JESUS
-http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x21.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x1.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x2.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x3.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x4.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x5.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x6.mp4
 #EXTINF:-1 tvg-logo="" group-title="",Senhor Dos Aneis As Duas Torres
 https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 #EXTINF:-1 tvg-logo="" group-title="",Piratas Do CARIBE O Bau Da Morte 
