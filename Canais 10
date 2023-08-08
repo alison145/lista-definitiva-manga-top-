@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/19/01/17/16/28/3541107.jpg" group-title="Sem Categoria", DUMBO
-http://169.197.124.122:23818/vod/F8B393B7FE8C4C4192E558650D01F625_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3DUA9RcKM53YVN_F1HsQVVkE57p%26app_version%3D20001%26client_ip%3D45.179.29.160%26dev_id%3D3820b085ac171403c76d52f537c7bac7%26auth_id%3D209271702_com.global.ycweb_cloud-c2-redis_0%26user_id%3D209271702%26expired%3D1691462767%26token%3D12a21fd9ad8170e3d7116d024ca8a3d0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3DF8B393B7FE8C4C4192E558650D01F625%26expired%3D1691462767%26token%3D177b35d87ca157e0f18051beefb6e005
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
 http://212.102.60.39:2200/BRX/Viva_HD/tracks-v1a1/mono.m3u8
 
@@ -82,7 +79,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18754
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY
-http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/103?Play&token=GRJeVUEJEF9BAQRUDAkFDQEBXQReC1dTDQBTVQULVFVaVlQGAAdUBAUWHUFLTBFQAw87DwIaXwAJVkkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QBw9TVhsXQwxXQAoUBwtWBFJBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBXUgcCQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUAANUwZAHw==
+http://megablaze.com.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8?token=1691603457_0698fced8a54a1fbb2c96b2957a13bc8d7c3fc4b
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY
 http://loadbl2.online:80/Annabele231059/Angelo095187/17641
@@ -100,13 +97,13 @@ http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
 http://45.58.126.146:14258/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
-http://45.58.126.146:14258/
+http://megablaze.com.global.prod.fastly.net:80/live/idinvestigacaodiscovery/play2.m3u8?token=1691603457_a4aa059f7a88fd5c96fa24b08ebd1ea80fd71537
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY theater 
 http://66.90.68.66:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/105?Play&token=GRJeVUEJEF9BDQFSCAlWBFEAXQAEWgAIDFVdVQEGBgUDBQYGVlMDU1UWHUFLTBFQAw87DwIaXwAJUEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QCQlVVRsXQwxXQAoUAABVB0dPFlQbTF0RWwMOOwIDTgxSXEdfWUBfCR9AX1hrVgRfBA1QE1kaCEEZQAsXFkQCC0RVCUkVV1oRQQNEUxYIQwNTUwATTxpbDEAMFhYfRAJHc2tHSRVQSxFWDENfW1xDCEcXRxNPGlEQahAHFxIUXQRcXBdHDRcDRx9AXVdMbQJdCw1RUhdRVw1GQFhGV1YIVQEJR0kVWFwLWhZfRGtCCFZHWRYAWg0MVxcf
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
-http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/107?Play&token=GRJeVUEJEF9BA1UHC10AB1sAXVBeXVZUDQBSDwRSVQNaCQcMUVYBAQAWHUFLTBFQAw87DwIaXwAJUkkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QCQhVXRsXQwxXQAoUBwtYBlxBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBUVwAJQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUAANUgFAHw==
+http://megablaze.com.global.prod.fastly.net:80/live/discoveryturbo/play2.m3u8?token=1691603457_6012259b3919abc5f1c5aa9e5631ad6cdf38866b
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
 http://45.58.126.146:14273/
@@ -133,7 +130,6 @@ http://45.58.126.146:14284/
 http://cdn.connectbr.com.br/h2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTRIO", HISTORIA 2
-http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/223?Play&token=GRJeVUEJEF9BBgECXVtWUARSBQNWClNUXQFdAQcCUFAHA1ACVANQAQIWHUFLTBFQAw87DwIaXwMLVkkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1TAQBRUxsXQwxXQAoUAApSB1VBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBXUQMGQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUAABUwxAHw==
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTRIO", HISTORIA 2
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
@@ -145,7 +141,6 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31605.ts
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31604.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
-http://67.159.32.82:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/155?Play&token=GRJeVUEJEF9BVwNTCA1WUFNRAldUDgMBDVMAAA1RB1IEVVUDUwRRVwcWHUFLTBFQAw87DwIaXwAMUEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1TAAhRURsXQwxXQAoUBwpWC11BGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBUVQwFQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TUAAPUwxAHw==
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria",Food
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31606.ts
@@ -184,10 +179,10 @@ http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16716
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16725
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR  CHANNEL
-http://45.58.126.146:14329/
+http://45.58.126.146:14329/ 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR LIFE
-http://212.102.60.39:2200/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=RED_-G6wOXLDGzyYlSWh-N90Mw%3D%3D%2C1651488217.8617422156
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR CHANNEL 
+http://212.102.60.39:2200/BRX/Star_Channel_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX
 http://45.58.126.146:14317/megapix
@@ -205,7 +200,7 @@ http://51.83.238.223:16823/
 http://51.159.54.153:14408/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
-http://7go.xyz:8080/556799391192/xxzsaw25106/18724
+http://199.127.60.83:16043/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
 http://7go.xyz:8080/556799391192/xxzsaw25106/18724
@@ -213,14 +208,14 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18724
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMONT+
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/60072798dcf437000755b4f3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMONT 
+http://187.95.95.243:80/paramount/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
-http://7go.xyz:8080/556799391192/xxzsaw25106/22681
+http://megablaze.com.global.prod.fastly.net:80/live/hbo/play2.m3u8?token=1691603896_fc3d28196843e777ceeddf00d589cd523ce7198c
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2
-http://7go.xyz:8080/556799391192/xxzsaw25106/18834
+http://megablaze.com.global.prod.fastly.net:80/live/hbo2/play2.m3u8?token=1691603896_840cf09adeb3cbfa0cd17d2bad2b66da4d5408e0
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP
 http://7go.xyz:8080/556799391192/xxzsaw25106/42930
@@ -271,7 +266,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18726
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16702
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SONY
-http://7go.xyz:8080/556799391192/xxzsaw25106/22388
+http://199.127.60.83:16063/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SONY
 http://7go.xyz:8080/556799391192/xxzsaw25106/22610
@@ -287,6 +282,9 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31599.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31600.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", WARNER CHANNEL 
+http://212.102.60.39:2200/BRX/Warner_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria",CURTA
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31602.ts
