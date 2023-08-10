@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",breaking bad 1
+http://169.197.124.122:23818/vod/01B1E6468A4A4749BE1A425690CFDDB1_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3DaQpbQvmfRyg8_rJGlb3GwyF7U%26app_version%3D20001%26client_ip%3D45.179.29.160%26dev_id%3D158bea41778c7a4cba72558f74d87bdf%26auth_id%3D210495468_com.global.ycweb_cloud-c2-redis_0%26user_id%3D210495468%26expired%3D1691656754%26token%3D6df4eb123a290e1382083c98fd2e0388&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3D01B1E6468A4A4749BE1A425690CFDDB1%26expired%3D1691656754%26token%3D943e3cedbd9cccf09401e2fbb3a08585
+
+
