@@ -352,7 +352,68 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf00
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIME
 http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFVAgZUTUAWElRFaFpTEg4aUVcAAA8DWhYfEkwNCFFBDFICAlNTW1tUAAQbEUdZUBpZRgMLDwdbFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgUCUAIRHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYPRAcSFEYMRzxEBkdAFwQDDgRDFQ0RBxIYGg4FSmdUWwxaVlNMDQpaEBRZFgZHTUAODl9eQ1xFb0RRB0YIVkJYDkk=
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x3.mp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x10.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x11.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x12.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x13.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x14.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", apocalypto
 https://mv-2.astr.digital/get.php?q=hd&f=QVVPZ1l4RVZZSjkwcFV5ZkxKQWlwUlI9&id=WlFIbFpEPT0=&token=TXd0a1pHT3VCR3A0WnpEbUFtSXhaSkwyQTJBdkFReXdCVFd5TG1abFpUTD0=
