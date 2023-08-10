@@ -9,7 +9,7 @@ http://199.127.60.83:16884/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31630.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-titler ="Sem Categoria",
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31638.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMERICA NEW
@@ -88,10 +88,10 @@ http://loadbl2.online:80/Annabele231059/Angelo095187/17641
 http://hubby.fun:80/MixTv2022/i3hvtXbkz6/23009
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
-http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8   
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
-http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
+http://45.58.126.146:14293/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
 http://45.58.126.146:14258/
@@ -187,6 +187,9 @@ http://212.102.60.39:2200/BRX/Star_Channel_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX
 http://45.58.126.146:14317/megapix
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3G1uj05tGDUvPb8elWRMQw8-oYO_1me1r2A&usqp=CAU" group-title="Sem Categoria", SPACE
+http://45.58.126.146:14323/
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SESSÃO CINE
 http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?ROGERIOTORRES
 
@@ -203,7 +206,19 @@ http://51.159.54.153:14408/
 http://199.127.60.83:16043/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
-http://7go.xyz:8080/556799391192/xxzsaw25106/18724
+http://megablaze.com.global.prod.fastly.net:80/live/hbo2/play2.m3u8?token=1691603896_840cf09adeb3cbfa0cd17d2bad2b66da4d5408e0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
+http://66.90.85.74:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/181?token=GRJeVUEJEF9BUgkGCQBTBAZTBlYACAdSXAMAUwELVAYDCVBRAVJWBlMWHUFLTBFQAw87DwIaXwABVEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JfVw1SCA9TXRsXQwxXQAoUBgJUA1VBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBWUgEEQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFQNVQEJR0kVWFwLWhZfRGtCCFZHWRYHUA4NQUg=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+http://212.102.60.39:2200/BRX/TNT__1_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT HD
+http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIE
+http://45.58.126.146:14345/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -256,11 +271,11 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/22355
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
 http://190.171.101.36:80/HBO/tracks-a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX
-http://loadbl2.online:80/Annabele231059/Angelo095187/17623
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX. 
+http://212.102.60.39:2200/BRX/Cinemax_HDPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX
-http://7go.xyz:8080/556799391192/xxzsaw25106/18726
+http://212.102.60.39:2200/BRX/Cinemax_HDPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX HD
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16702
@@ -272,40 +287,31 @@ http://199.127.60.83:16063/
 http://7go.xyz:8080/556799391192/xxzsaw25106/22610
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC
-http://7go.xyz:8080/556799391192/xxzsaw25106/22292
+http://199.127.60.83:16004/amc
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC
-http://199.127.60.83:16004/amc
+http://45.58.126.146:14296/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31599.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", COMEDY CENTRAL HD
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31600.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", WARNER CHANNEL 
+#EXTINF:-1 tvg-logo="" group-title="FILMES", WARNER CHANNEL 
 http://212.102.60.39:2200/BRX/Warner_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",CURTA
+#EXTINF:-1 tvg-logo="" group-title="FILMES",CURTA
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31602.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", MTV
 http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE FILMES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE FILMES
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31623.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY SHART
 https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SUPER STOM
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DRAMA
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1210d14ae1f80007bafb1d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SUSPENCE
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a0500007362f22/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICK JR
 http://45.58.126.146:14215
@@ -324,27 +330,6 @@ http://myott.top/stream/DEKA6YA5JRN/323.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICKELODEON
 http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Jackie cham
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Jackie cham
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", UTV
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w985115768.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CON
-https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILMES DE A脟脙O
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT FHD
-http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PEQUENA SEREIA
-https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MARSHALL E URSO
 https://www.googleapis.com/drive/v3/files/1gi6-7jLm_NC24AvCMRDm0pLxxRK64hfP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -370,7 +355,7 @@ http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRY
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", apocalypto
-http://fhd04-2.appmaxplus.xyz/token/FHD4/tt0472043.mp4
+http://169.197.124.122:23818/vod/01B1E6468A4A4749BE1A425690CFDDB1_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3DL9921NlhiUxa_4T8Ih3JaswHV%26app_version%3D20001%26client_ip%3D45.179.29.160%26dev_id%3D158bea41778c7a4cba72558f74d87bdf%26auth_id%3D210495468_com.global.ycweb_cloud-c2-redis_0%26user_id%3D210495468%26expired%3D1691652599%26token%3D4e48925b1976e38bd57ba2d3e927f371&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3D01B1E6468A4A4749BE1A425690CFDDB1%26expired%3D1691652599%26token%3D8e6c79380f0bacbc2adfa4062e2a0cb9
 
 #EXTINF:-1 tvg-logo="" group-title="",Senhor Dos Aneis As Duas Torres
 https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
