@@ -61,10 +61,10 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31627.ts
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31627.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://199.127.60.83:16192/
+http://208.115.225.174:14192/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://megablaze.com.global.prod.fastly.net:80/live/animalplanet/play2.m3u8
+http://199.127.60.83:16192/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET
 http://208.115.225.174:14192/
@@ -73,7 +73,7 @@ http://208.115.225.174:14192/
 http://84.17.44.179:14635/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://146.59.150.121:8080//live/DQ-NOVO500/ziqDdRRQ6c/31124.ts?token=QhUMAhZZR1gbUQQFA1AND1VUVgINAAdXAQYHCg9XU1QBAAEBVAQGAAhGTRJEFkpSVQxqX10RC1YGVQcGFBBEQVxFOwoBE19ADlNYAANAFBVACFhTGwkAUw5WBQQNBgkFFRUUCgETX0AOU1cSG0BdT0AER1hYX24BUhJcUV0QC1xMWwhPR14LPV0BDFFZBhoNFlEXGhtaQhUVXltHVF4dEFteEBEERQBAA0ZQBA9bGhsWAlpDV0dDHBVeF3BqEB0QXE8QBgtCDA1XRlsSQxEaGxYIRmlLVkIRRQFUX11AEwgbBkZPR1wEGmYHDl5ZB1tDXQ5bRRsJE10HVBceGl9eXFBDCxE6QQwGG15DAwVWCQ8WHA==
+http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/439.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://7go.xyz:8080/556799391192/xxzsaw25106/183639
@@ -91,7 +91,7 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00
 http://megablaze.com.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8?token=1691603457_0698fced8a54a1fbb2c96b2957a13bc8d7c3fc4b
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY
-http://loadbl2.online:80/Annabele231059/Angelo095187/17641
+http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/318.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY
 http://megablaze.com.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8
@@ -106,7 +106,7 @@ http://megablaze.com.global.prod.fastly.net:80/live/ae/play2.m3u8
 http://45.58.126.146:14293/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
-http://megablaze.com.global.prod.fastly.net:80/live/idinvestigacaodiscovery/play2.m3u8
+http://45.58.126.146:14258/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
 http://45.58.126.146:14258/
@@ -115,10 +115,10 @@ http://45.58.126.146:14258/
 http://megablaze.com.global.prod.fastly.net:80/live/idinvestigacaodiscovery/play2.m3u8?token=1691603457_a4aa059f7a88fd5c96fa24b08ebd1ea80fd71537
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY theater 
-http://66.90.68.66:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/105?Play&token=GRJeVUEJEF9BDQFSCAlWBFEAXQAEWgAIDFVdVQEGBgUDBQYGVlMDU1UWHUFLTBFQAw87DwIaXwAJUEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QCQlVVRsXQwxXQAoUAABVB0dPFlQbTF0RWwMOOwIDTgxSXEdfWUBfCR9AX1hrVgRfBA1QE1kaCEEZQAsXFkQCC0RVCUkVV1oRQQNEUxYIQwNTUwATTxpbDEAMFhYfRAJHc2tHSRVQSxFWDENfW1xDCEcXRxNPGlEQahAHFxIUXQRcXBdHDRcDRx9AXVdMbQJdCw1RUhdRVw1GQFhGV1YIVQEJR0kVWFwLWhZfRGtCCFZHWRYAWg0MVxcf
+http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/322.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
-http://megablaze.com.global.prod.fastly.net:80/live/discoveryturbo/play2.m3u8?token=1691603457_6012259b3919abc5f1c5aa9e5631ad6cdf38866b
+http://45.58.126.146:14267/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
 http://45.58.126.146:14273/
@@ -130,13 +130,16 @@ http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16711
 http://66.90.68.66:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/121?Play&token=GRJeVUEJEF9BVQYAXQxXUVRTUgNeCwFTAF0BDlcLVlZaAQUNV1cDAVEWHUFLTBFQAw87DwIaXwALVEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QBgFQVBsXQwxXQAoUBwFRAEdPFlQbTF0RWwMOOwIDTgxSXEdfWUBfCR9AX1hrVgRfBA1QE1kaCEEZQAsXFkQCC0RVCUkVV1oRQQNEUxYIQwNdVAITTxpbDEAMFhYfRAJHc2tHSRVQSxFWDENfW1xDCEcXRxNPGlEQahAHFxIUXQRcXBdHDRcDRx9AXVdMbQJdCw1RUhdRVw1GQFhGV1YIVQEJR0kVWFwLWhZfRGtCCFZHWRYAVgAAUhcf
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
-http://66.90.84.58:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/101?Play&token=GRJeVUEJEF9BUQECD11UDVcBBVBVWQEJC1MAD1YFAVBbCVUHVlRUUFoWHUFLTBFQAw87DwIaXwAJVEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QBwFXUxsXQwxXQAoUBgdRB1JBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBUVAwFQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFcIVQEJVUcbF14KXQtEWUZtEVsBQQ4TVwgAVgVAHw==
+http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/432.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
 http://megablaze.com.global.prod.fastly.net:80/live/homehealth/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
 http://45.58.126.146:14255/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 
+http://45.58.126.146:14273/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 1
 http://45.58.126.146:14281/
@@ -148,12 +151,18 @@ http://187.95.95.243:80/History/tracks-v1a1/mono.m3u8
 http://45.58.126.146:14284/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
+http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/438.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://cdn.connectbr.com.br/h2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", E!
+http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/327.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31605.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
@@ -414,46 +423,46 @@ http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x6.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x1.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x2.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x3.mp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x4.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x5.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x6.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x7.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x8.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x9.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x10.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x11.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x12.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x13.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Breaking_bad_2_temporada_poster.jpg" group-title="BREAKING BAD 2
+#EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x14.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", apocalypto
@@ -461,11 +470,20 @@ https://mv-2.astr.digital/get.php?q=hd&f=QVVPZ1l4RVZZSjkwcFV5ZkxKQWlwUlI9&id=WlF
 
 #EXTINF:-1 tvg-logo="" group-title="",Senhor Dos Aneis As Duas Torres
 https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+#EXTINF:-1 tvg-logo="" group-title="",a ilha
+http://169.197.124.122:23818/vod/B2FF57B1D0D44213861A3C10372D55C9_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3DGuqexWRKPqsV_MC92dPwhupR%26app_version%3D20001%26client_ip%3D45.179.28.79%26dev_id%3D105b191ae63905d075e7be60eaea672b%26auth_id%3D216776698_com.global.ycweb_cloud-c2-redis_0%26user_id%3D216776698%26expired%3D1692589915%26token%3Dc04c91508289634ebe4c81199899ec79&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3DB2FF57B1D0D44213861A3C10372D55C9%26expired%3D1692589915%26token%3Dbaa688e76463e444f967ddbec74da811
+
+#EXTINF:-1 tvg-logo="" group-title="",o bom gigante amigo
+http://169.197.124.122:23818/vod/5F4B052E2F4949539DF2DDFD58AE3B70_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3DRP57IgX3bXmr_UR0NziKw2KRk%26app_version%3D20001%26client_ip%3D45.179.28.79%26dev_id%3D105b191ae63905d075e7be60eaea672b%26auth_id%3D216776698_com.global.ycweb_cloud-c2-redis_0%26user_id%3D216776698%26expired%3D1692590660%26token%3Daa5efb25226a0a16808374ffe093405d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3D5F4B052E2F4949539DF2DDFD58AE3B70%26expired%3D1692590660%26token%3D9bba51c65095ffc89076aa2cf0bc946f
 #EXTINF:-1 tvg-logo="" group-title="",Piratas Do CARIBE O Bau Da Morte 
 https://www.googleapis.com/drive/v3/files/19xRuHML80Zdbxdwi1q6P3E5ktEimMGgk?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 #EXTINF:-1 tvg-logo="" group-title="",MALÉVOLA 
 https://www.googleapis.com/drive/v3/files/14Qn-tIaZZ5fsao2KdgFWM32H9iotDUyb?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 #EXTINF:-1 tvg-logo="" group-title="",MALÉVOLA 2
 https://www.googleapis.com/drive/v3/files/1joVIC6zSDPvhDiWTnE5YfTuD7yiTxYud?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 #EXTINF:-1 tvg-logo="" group-title="",Street Fhigterdublado
 https://www.googleapis.com/drive/v3/files/1-43Js92V8mY7sjLIspj9iR8Kt_BaAus7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
