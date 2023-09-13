@@ -85,7 +85,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO",
 http://199.127.60.83:16192/animalplanet
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://45.58.126.146:14287/
+http://84.17.44.179:14635
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://superblazertop.com.br.global.prod.fastly.net:80/live/natgeowild/play2.m3u8
@@ -189,9 +189,6 @@ http://superblazertop.com.br.global.prod.fastly.net:80/live/history/play2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 1
 http://187.95.95.243:80/History/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA
-http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/351
-
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://45.58.126.146:14284/
 
@@ -251,6 +248,9 @@ http://185.150.190.225:16493
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
 http://superblazertop.com.br.global.prod.fastly.net:80/live2/combate/play2.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
+http://191.37.250.169:8801/live/CombateHD/720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title="Sem Categoria", COMBATE
 http://209.222.97.92:16493
 
@@ -288,9 +288,10 @@ http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/998
 http://51.83.238.223:16823/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3G1uj05tGDUvPb8elWRMQw8-oYO_1me1r2A&usqp=CAU" group-title="Sem Categoria", SPACE
-http://45.58.126.146:14323/
+http://195.181.163.144:14730/space
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", SPACE
+
 http://superblazertop.com.br.global.prod.fastly.net:80/live/space/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/space.png" group-title="FILMES", SPACE
@@ -343,6 +344,9 @@ http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo2/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP
 http://7go.xyz:8080/556799391192/xxzsaw25106/42930
+
+#EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png" group-title="Sem Categoria", HBO
+http://195.181.163.144:14606/HBO
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png" group-title="Sem Categoria", HBO
 http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo/play2.m3u8
@@ -447,7 +451,7 @@ http://45.58.126.146:14302
 http://199.127.60.83:16004/amc
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/amc.png" group-title="Sem Categoria", AMC
-http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/229
+http://199.127.60.83:16004/amc
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/amc.png" group-title="Sem Categoria", AMC
 http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/301
@@ -478,6 +482,15 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31623.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE CANAL
 https://server101.shop/cine-canal/tracks-v1a1/mono.m3u8?remote=177.67.53.201&token=7e5497fe1394dcaf076a278aef56beff3a4e2bf8-10a09a6f1afdf75a76d85a0da64a29ce-1691904394-1691900794
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",DESENHOS BÍBLICOS 
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",STREET FIGHTER  HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/718
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", 
+http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/718
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY SHART
 https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8
@@ -608,8 +621,11 @@ http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x13.mp4
 #EXTINF:-1 tvg-logo="" group-title="BREAKING BAD 2
 http://shd01-3.appmaxplus.xyz:80/sfgerg54yrt/SHD1/1396/2x14.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", apocalypto
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QdC1-_LLs14H1qB_IDiUpsN2lKqjbmVsuQ&usqp=CAU" group-title="Sem Categoria", apocalypto
 https://mv-2.astr.digital/get.php?q=hd&f=QVVPZ1l4RVZZSjkwcFV5ZkxKQWlwUlI9&id=WlFIbFpEPT0=&token=TXd0a1pHT3VCR3A0WnpEbUFtSXhaSkwyQTJBdkFReXdCVFd5TG1abFpUTD0=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QdC1-_LLs14H1qB_IDiUpsN2lKqjbmVsuQ&usqp=CAU" group-title="Sem Categoria", apocalypto
+http://vodlb1.zaintv.net/meDia/MoVies/EngMov/Old/Apocalypto.2006.720p.BluRay.x264-YTS.AM.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="",Senhor Dos Aneis As Duas Torres
 https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -628,6 +644,11 @@ https://www.googleapis.com/drive/v3/files/19xRuHML80Zdbxdwi1q6P3E5ktEimMGgk?alt=
 
 #EXTINF:-1 tvg-logo="http://meumd.com:80/images/8aIvm8OaJISOpVTt7rMIh7X35G5_big.jpg" group-title="",O REI LEÃO (1994)
 http://meumd.com:80/movie/beneditojp/goiptv2021/209600.mp4
+
+#EXTINF:-1 tvg-logo="http://meumd.com:80/images/8aIvm8OaJISOpVTt7rMIh7X35G5_big.jpg" group-title="",
+https://867320390.tapecontent.net/radosgw/e38WMx2ebDIwYe/sxiheJeFfYSG6wbsODq92c6K8i9PSq4_PKabcgMGL1dlYN1HFZvIvXK2-RbdO25tSvh_EIFUuu4jyQLn2H6_ivIJrCAmkpiFrzJLCv8ikG7pX0Nlrl_W251FCl3QH4godoaaHwsEGozbW4Vaj0axSioMRA2pyPrREzDMlvZ0zI0rFwb9xUp_tncujw9rgvegsRCda0kYyjztuw_e_B4KizRlEgzS7mrfokZBLNJYbmUcAN8kd3fMUDqlLwa1853tX0tFF1rHLDF4Wfsw6vxl8gJiRZR5MApZP0OwII7PvZtV_tmOKMssTkzDeKw/25_Anos_-_Edward_M%C3%A3os_de_Tesoura_%281990%29.mp4?stream=1
+
+
 
 #EXTINF:-1 tvg-logo="http://meumd.com:80/images/8aIvm8OaJISOpVTt7rMIh7X35G5_big.jpg" group-title="",O REI LEÃO (1994)
 https://vod-ycweb.yamyday.com/vod/039702B261B344FF9AD3C93E9C360DD6_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-ycweb.yamyday.com%26app_id%3Dcom.global.ycweb%26trans_id%3DvFQxzLdBAMAn_kNrPJhoOgQBe%26app_version%3D20001%26client_ip%3D45.179.29.176%26dev_id%3De19094a2ce66be4daa109d38cc792c31%26auth_id%3D219679946_com.global.ycweb_cloud-c2-redis_0%26user_id%3D219679946%26expired%3D1693626621%26token%3D855eafd1bad88590f79580ffe48ed201&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3D039702B261B344FF9AD3C93E9C360DD6%26expired%3D1693626621%26token%3D412298e6d63fbb7466a2e8addb7b5c8d&timestamp=1693612224748
