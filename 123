@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://cdn.rtyh.xyz:80/images/deada8b85916ebb3f32ffe55e59b0ff9.png" group-title="Sem Categoria", VIVA
-http://magadiuzotobo.com.br.global.prod.fastly.net:80/live/viva/play2.m3u8
+http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-logo="http://cdn.rtyh.xyz:80/images/deada8b85916ebb3f32ffe55e59b0ff9.png" group-title="Sem Categoria", VIVA
 http://199.127.60.83:16884/
 
 #EXTINF:-1 tvg-logo="http://cdn.rtyh.xyz:80/images/deada8b85916ebb3f32ffe55e59b0ff9.png" group-title="Sem Categoria", VIVA
-http://cdn.rtyh.xyz:80/agathamm/879523/178154
+http://bagada.b-cdn.net:80/live/viva/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.rtyh.xyz:80/images/deada8b85916ebb3f32ffe55e59b0ff9.png" group-title="Sem Categoria", VIVA
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31630.ts
@@ -70,7 +70,7 @@ http://appserv28.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/541?token=ShZcWRELFQxDUw
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31627.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://magadiuzotobo.com.br.global.prod.fastly.net:80/live/animalplanet/play1.m3u8
+http://bagada.b-cdn.net:80/live/animalplanet/play1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET
 http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/302
@@ -85,13 +85,10 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO",
 http://199.127.60.83:16192/animalplanet
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://magadiuzotobo.com.br.global.prod.fastly.net:80/live/natgeowild/play1.m3u8
-
-#EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://superblazertop.com.br.global.prod.fastly.net:80/live/natgeowild/play2.m3u8
-
-#EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://84.17.44.179:14635/
+
+#EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
+http://bagada.b-cdn.net:80/live/natgeowild/play1.m3u8
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="DOCUMENTARIO", NETGEO 
 http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/373
@@ -103,7 +100,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18754
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="DOCUMENTARIO", DISCOVERY
-http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14432
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="DOCUMENTARIO", DISCOVERY
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/318.m3u8
@@ -151,7 +148,7 @@ http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/322
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/322.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
-http://fadder.eletrinho.shop:2095/live/discoveryturbo/chunks.m3u8
+http://45.58.126.146:14267/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
 http://45.58.126.146:14273/
@@ -184,13 +181,10 @@ http://45.58.126.146:14273/
 http://45.58.126.146:14281/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 
-http://187.95.95.243:80/History/tracks-v1a1/mono.m3u8
+http://45.58.126.146:14281/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 
 http://187.95.95.243:80/History/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
-http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://45.58.126.146:14284/
