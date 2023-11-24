@@ -78,8 +78,8 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET
 http://208.115.225.174:14192/
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://199.127.60.83:16192/animalplanet
+EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET Brasil tv
+https://live-brasilweb.yamyday.com/live/pt_AC1DB2AAE9BEF9CA060B93A8_480p.m3u8?content_auth2=session_id%3D4nfeycsi4zD3%26main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26auth_id%3D258101476_com.global.brasiltvweb_local-uncloud-redis_0%26client_ip%3D45.179.29.169%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26user_id%3D258101476%26app_id%3Dcom.global.brasiltvweb%26dev_id%3Da34cdf5d%26expired%3D1700800040%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DE9861CD78C0431C973C03DFD81B6B8C1&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_AC1DB2AAE9BEF9CA060B93A8_480p%26expired%3D1701388971%26token%3DC56FDB4D147BD53CCAFA29AFF743F9D2&timestamp=1700785653596
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://84.17.44.179:14635/
@@ -103,7 +103,7 @@ http://51.83.238.223:16957/
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/318.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Sem Categoria", DISCOVERY
-http://15.235.50.112:14094
+http://51.83.238.223:16957/
 
 #EXTINF:-1 tvg-logo="https://www.groupe-campus.com/wp-content/uploads/2019/07/canal-logo-png-transparent.png" group-title="Sem Categoria", DISCOVERY
 http://199.127.60.83:16063/canal +
@@ -130,7 +130,7 @@ http://199.127.60.83:16002/A&E
 http://45.58.126.146:14293/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14439
+http://84.17.44.179:14620/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
 http://45.58.126.146:14258/
@@ -145,7 +145,7 @@ http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/322
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/322.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
-http://45.58.126.146:14267/
+http://84.17.44.179:14585/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
 http://45.58.126.146:14273/
@@ -175,7 +175,7 @@ http://45.58.126.146:14255/
 http://45.58.126.146:14273/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 
-http://45.58.126.146:14281/
+http://84.17.44.179:14670/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 
 http://45.58.126.146:14281/
@@ -555,6 +555,12 @@ http://superblazertop.com.br.global.prod.fastly.net:80/live/nickelodeon/play2.m3
 
 #EXTINF:-1 tvg-logo="http://ddsw.xyz:80/images/plqbglM8JxBMPAASwLwS2mYfLECRXQnz-cLM0LsBRYFT76jnmpec1kn-4980eXqJIVJGgB_lhkUQL560Kp4RgURZduESoIQWagstIaQkBuRA5rlo7bSHutC8WJuA9YOP0XpYmEjTpNfIWk8JlNuVLKQNH00u8Our8-KV-NFaoXw.png" group-title="Sem Categoria", DESENHOS DA BÍBLIA
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",A Cabana
+https://vod-brasilweb.yamyday.com/vod/04761197A6CC4324879496B8B2F4A256_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DPGGeBBWEfkIx_3blLFqidqEw%26app_version%3D20001%26client_ip%3D45.179.29.169%26dev_id%3D5ffcb91ce5876c7e0ce4a70ca34cdf5d%26auth_id%3D258101476_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D258101476%26expired%3D1700799879%26token%3D9e6910bf9b06fcca85b74dffa2a9a586&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D04761197A6CC4324879496B8B2F4A256%26expired%3D1700799879%26token%3D788b9b594c3769718b44544d738d80d7&timestamp=1700785483313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",O pior vizinho do mundo 
+https://vod-brasilweb.yamyday.com/vod/49487D99DB76432D928EEA6422B3D93E_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DYcMaIYgTuGxD_7G4JSyRnhhqq%26app_version%3D20001%26client_ip%3D45.179.29.169%26dev_id%3D5ffcb91ce5876c7e0ce4a70ca34cdf5d%26auth_id%3D258101476_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D258101476%26expired%3D1700800189%26token%3De98feb0ebab7c4056d220cc2d4e42bf2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D49487D99DB76432D928EEA6422B3D93E%26expired%3D1700800189%26token%3D3d35bdea56378a5f25c42e44bc0d7c74&timestamp=1700785794537
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA
 http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64223.mp4
