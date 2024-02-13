@@ -4,7 +4,7 @@
 http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-logo="http://cdn.rtyh.xyz:80/images/deada8b85916ebb3f32ffe55e59b0ff9.png" group-title="Sem Categoria", VIVA
-http://199.127.60.83:16884/
+http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/22
 
 #EXTINF:-1 tvg-logo="http://cdn.rtyh.xyz:80/images/deada8b85916ebb3f32ffe55e59b0ff9.png" group-title="Sem Categoria", VIVA
 http://bagada.b-cdn.net:80/live/viva/play2.m3u8
@@ -26,6 +26,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w643317548_b216000_sleng
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT42V1vk/LOGO__DA__GLOBO.jpg" group-title="Sem Categoria", GLOBO SP
 http://199.127.60.83:16043
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/xT42V1vk/LOGO__DA__GLOBO.jpg" group-title="Sem Categoria", FUTURA 
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/115
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT AO VIVO
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1732543709.m3u8?PEDROJUNIORTUTORIAIS
@@ -78,8 +81,8 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET
 http://208.115.225.174:14192/
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET Brasil tv
-https://live-brasilweb.yamyday.com/live/pt_AC1DB2AAE9BEF9CA060B93A8_480p.m3u8?content_auth2=session_id%3D4nfeycsi4zD3%26main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26auth_id%3D258101476_com.global.brasiltvweb_local-uncloud-redis_0%26client_ip%3D45.179.29.169%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26user_id%3D258101476%26app_id%3Dcom.global.brasiltvweb%26dev_id%3Da34cdf5d%26expired%3D1700800040%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DE9861CD78C0431C973C03DFD81B6B8C1&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_AC1DB2AAE9BEF9CA060B93A8_480p%26expired%3D1701388971%26token%3DC56FDB4D147BD53CCAFA29AFF743F9D2&timestamp=1700785653596
+EXTINF:-1 tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="DOCUMENTARIO", ANIMAL PLANET
+http://199.127.60.83:16192/animalplanet
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://84.17.44.179:14635/
@@ -201,6 +204,9 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31605.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31604.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",Off
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/104
+
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria",Food
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31606.ts
 
@@ -218,6 +224,9 @@ http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria",GLOBO SAT
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31613.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria",CANAL BRASIL 
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria",MTV
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31616.ts
@@ -335,19 +344,22 @@ http://187.95.95.243:80/paramount/tracks-v1a1/mono.m3u8
 http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo2/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP
-http://7go.xyz:8080/556799391192/xxzsaw25106/42930
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/108
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png" group-title="Sem Categoria", HBO Signature 
-http://tv.deflextelecom.com.br:8880/live/jean123/jean123/551.m3u8
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png" group-title="Sem Categoria", HBO
 http://195.181.163.144:14606/HBO
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png" group-title="Sem Categoria", HBO
-http://tv.deflextelecom.com.br:8880/live/jean123/jean123/552.m3u8
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png" group-title="Sem Categoria", HBO
 http://195.181.163.144:14606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO XTREME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/106
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO XTREME
 http://tv.deflextelecom.com.br:8880/live/jean123/jean123/550.m3u8
@@ -356,16 +368,16 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/550.m3u8
 http://7go.xyz:8080/556799391192/xxzsaw25106/18740
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI
-http://7go.xyz:8080/556799391192/xxzsaw25106/22551
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/110
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO PLUS
-http://tv.deflextelecom.com.br:8880/live/jean123/jean123/554.m3u8
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/109
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FAMILY
 http://tv.deflextelecom.com.br:8880/live/jean123/jean123/553.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FAMILY
-http://7go.xyz:8080/556799391192/xxzsaw25106/22549
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO PLUS
 http://tv.deflextelecom.com.br:8880/live/jean123/jean123/554.m3u8
@@ -437,19 +449,19 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/37.m3u8
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/311
 
 #EXTINF:-1 tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo17E2qrPuItlvNFctTEWJ8Z0iOCjclFgxM9iea44Ac8g.png" group-title="Sem Categoria", SONY
-http://199.127.60.83:16063/
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
 
 #EXTINF:-1 tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo17E2qrPuItlvNFctTEWJ8Z0iOCjclFgxM9iea44Ac8g.png" group-title="Sem Categoria", SONY
-http://7go.xyz:8080/556799391192/xxzsaw25106/22610
+http://199.127.60.83:16063/
 
 #EXTINF:-1 tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo17E2qrPuItlvNFctTEWJ8Z0iOCjclFgxM9iea44Ac8g.png" group-title="Sem Categoria", SONY
 http://45.58.126.146:14302
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/amc.png" group-title="Sem Categoria", AMC
-http://199.127.60.83:16004/amc
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/116
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/amc.png" group-title="Sem Categoria", AMC
-http://tv.deflextelecom.com.br:8880/live/jean123/jean123/8.m3u8
+http://199.127.60.83:16004/amc
 
 #EXTINF:-1 tvg-logo="http://46.165.222.67:2095/tourobox/amc.png" group-title="Sem Categoria", AMC
 http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/301
@@ -556,227 +568,15 @@ http://superblazertop.com.br.global.prod.fastly.net:80/live/nickelodeon/play2.m3
 #EXTINF:-1 tvg-logo="http://ddsw.xyz:80/images/plqbglM8JxBMPAASwLwS2mYfLECRXQnz-cLM0LsBRYFT76jnmpec1kn-4980eXqJIVJGgB_lhkUQL560Kp4RgURZduESoIQWagstIaQkBuRA5rlo7bSHutC8WJuA9YOP0XpYmEjTpNfIWk8JlNuVLKQNH00u8Our8-KV-NFaoXw.png" group-title="Sem Categoria", DESENHOS DA BÍBLIA
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",A Cabana
-https://vod-brasilweb.yamyday.com/vod/04761197A6CC4324879496B8B2F4A256_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DPGGeBBWEfkIx_3blLFqidqEw%26app_version%3D20001%26client_ip%3D45.179.29.169%26dev_id%3D5ffcb91ce5876c7e0ce4a70ca34cdf5d%26auth_id%3D258101476_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D258101476%26expired%3D1700799879%26token%3D9e6910bf9b06fcca85b74dffa2a9a586&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D04761197A6CC4324879496B8B2F4A256%26expired%3D1700799879%26token%3D788b9b594c3769718b44544d738d80d7&timestamp=1700785483313
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",O pior vizinho do mundo 
-https://vod-brasilweb.yamyday.com/vod/49487D99DB76432D928EEA6422B3D93E_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DYcMaIYgTuGxD_7G4JSyRnhhqq%26app_version%3D20001%26client_ip%3D45.179.29.169%26dev_id%3D5ffcb91ce5876c7e0ce4a70ca34cdf5d%26auth_id%3D258101476_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D258101476%26expired%3D1700800189%26token%3De98feb0ebab7c4056d220cc2d4e42bf2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D49487D99DB76432D928EEA6422B3D93E%26expired%3D1700800189%26token%3D3d35bdea56378a5f25c42e44bc0d7c74&timestamp=1700785794537
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64223.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64224.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64225.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64226.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64227.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64228.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV1fC9SPXQkzjp0H4KT7zr2uZY2ncqehIHQ&usqp=CAU" group-title="BREAKING BAD 1 TEMPORADA",BREAKING BAD 1 TEMPORADA 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64229.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64230.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64231.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64232.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64233.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64234.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64235.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64236.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64237.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64238.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64239.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64240.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64241.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64242.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlUC71BxlKBpq7Wi55bq_2G9oIP4hlTonRw&usqp=CAU" group-title="BREAKING BAD 2
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/64243.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-cwa8N4BIbyvYSkYd5tUE8XEIPoiIJyfUg&usqp=CAU" group-title=",CAVALEIRO DA LUA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/112370.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-cwa8N4BIbyvYSkYd5tUE8XEIPoiIJyfUg&usqp=CAU" group-title=",CAVALEIRO DA LUA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/115135.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-cwa8N4BIbyvYSkYd5tUE8XEIPoiIJyfUg&usqp=CAU" group-title=",CAVALEIRO DA LUA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/118299.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-cwa8N4BIbyvYSkYd5tUE8XEIPoiIJyfUg&usqp=CAU" group-title=",CAVALEIRO DA LUA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/118911.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-cwa8N4BIbyvYSkYd5tUE8XEIPoiIJyfUg&usqp=CAU" group-title=",CAVALEIRO DA LUA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/119840.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-cwa8N4BIbyvYSkYd5tUE8XEIPoiIJyfUg&usqp=CAU" group-title=",CAVALEIRO DA LUA
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/183716.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69492.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69493.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
- 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69494.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69495.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69496.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69497.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69498.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69499.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69500.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69501.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69502.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69503.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69504.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69505.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69506.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69507.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69508.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZxmzVjnNiDEUVeJuIOIwCPcEJNuOt4JCXQ&usqp=CAU" group-title=",THE WALKING DEAD 
-http://hubby.bz:80/series/UltraFlix-vods/YLH8YUXcs9/69509.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtub311DFJTd8Eh4itI3eR7kd2ryELNljnw&usqp=CAU" group-title=",DHAMER
-http://shd0.mflixhd.xyz:80/thefrdfbvdf/SHD0/209167/1x1.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtub311DFJTd8Eh4itI3eR7kd2ryELNljnw&usqp=CAU" group-title=",DHAMER
-http://shd0.mflixhd.xyz:80/thefrdfbvdf/SHD0/209167/1x2.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtub311DFJTd8Eh4itI3eR7kd2ryELNljnw&usqp=CAU" group-title=",DHAMER
-http://shd0.mflixhd.xyz:80/thefrdfbvdf/SHD0/209167/1x3.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",o poço
-http://hubby.bz:80/movie/UltraFlix-vods/YLH8YUXcs9/42481.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter e a Pedra Filosofal
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e a Pedra Filosofal - 2001.mp4 
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter e a Camara Secreta
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e a Camara Secreta - 2002.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e o Prisoneiro de Azkaban - 2004.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e o Calice de Fogo - 2005.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e a Ordem da FEnix - 2007.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e o Enigma do Principe - 2009.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e as Reliquias da Morte Parte 1 - 2010.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Harry Potter
-https://v.baixarfree.com/file/gmutxflix/Harry Potter e as Reliquias da Morte Parte 2 - 2011.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",dragon ball z
-http://24hrs.homelinux.com:80/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QdC1-_LLs14H1qB_IDiUpsN2lKqjbmVsuQ&usqp=CAU" group-title="Sem Categoria", apocalypto
-http://vodlb1.zaintv.net/meDia/MoVies/EngMov/Old/Apocalypto.2006.720p.BluRay.x264-YTS.AM.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Senhor Dos Aneis As Duas Torres
-https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGPLFOPMDFAy5WE2RhHoJsK0LLDxdAjeQ1yA&usqp=CAU" group-title="",O REGRESSO 
-http://VIDEO.wixstatic.com/video/cc7aad_2827ad8fc4564c348e25d36f5390a115/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OyNkRTox9vI6t4cxsLjx7KQSsG6NOnqwbg&usqp.jpg" group-title="",ATÉ O ÚLTIMO HOMEM
-http://VIDEO.wixstatic.com/video/cb6eaa_cdfe39eab68a4177be3c029cc7f35653/480p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",Piratas Do CARIBE O Bau Da Morte 
-https://www.googleapis.com/drive/v3/files/19xRuHML80Zdbxdwi1q6P3E5ktEimMGgk?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
 #EXTINF:-1 tvg-logo="" group-title="",Marshall e urso
 http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/702
 
 #EXTINF:-1 tvg-logo="" group-title="",dragon ball 
 http://castlempire.site:8080/alejandroastudillo/uXXvckDg/237075
 
-#EXTINF:-1 tvg-logo="" group-title="",
-http://castlempire.site:8080/alejandroastudillo/uXXvckDg/178461
-
-#EXTINF:-1 tvg-logo="" group-title="",peppa pig 
-http://milka99.xyz:80/069593498368/314545785775/62863
 
 #EXTINF:-1 tvg-logo="" group-title="",dragon ball z 
 http://milka99.xyz:80/224002894764/762020385494/62875
 
 #EXTINF:-1 tvg-logo="" group-title="",Street Fhigterdublado
 https://www.googleapis.com/drive/v3/files/1-43Js92V8mY7sjLIspj9iR8Kt_BaAus7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/98/87/KeBt9iRV_o.png" group-title="",Street Fhigterdublado
-http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/727
